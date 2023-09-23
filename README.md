@@ -131,7 +131,7 @@ Sales over the weekends generated a total of revenue of $9.84M which is 28.52% o
 
 # Visualization
 
-Click [here](https://github.com/Ernest-30/D-and-D-Electronics-Store-Sales-Analysis/blob/main/Sales%20Report.pbix) to download the full interactive dashboard
+Click [here](https://github.com/Ernest-30/MeriSkill-Sales-Analysis/blob/main/Sales%20Analysis%20Dashboard.pbix) to download the full interactive dashboard
 
 ![image](https://github.com/Ernest-30/D-and-D-Electronics-Store-Sales-Analysis/assets/123366282/d4358ccb-d790-4cc4-8337-02c421bb23a6)
 

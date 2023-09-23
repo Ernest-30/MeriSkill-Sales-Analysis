@@ -92,7 +92,7 @@ The most productive month is December with a total revenue of $4.61M which is 13
 
 ### Sales per Day of Week
 
-![image](https://github.com/Ernest-30/MeriSkill-Sales-Analysis/assets/123366282/94da23d5-1e9d-458c-9ebd-87d4a7cf0220)
+![image](https://github.com/Ernest-30/MeriSkill-Sales-Analysis/assets/123366282/21710678-10a2-4275-bbca-e4981084114c)
 
 
 Tuesdays accounted for the highest revenue generated with a total of $5M which is about 14.75% of the total revenue generated. While the day that recorded the least revenue is Thursday with a total of 4.8M which is 14% of the total revenue generated. 

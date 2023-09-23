@@ -57,7 +57,8 @@ Data Cleaning: I cleaned the data to ensure accuracy and consistency this includ
 
 Data Transformation: I transformed the data to make it suitable for analysis. This transformation includes calculations, aggregations, and filtering operations. I also created new columns required for the analysis using Microsoft Excel.
 
-Data Visualization: I visualized the analyzed data using the various in charts and graphs available in Microsoft Power BI. I also created a dashboard using the insights from the analyzed data.
+Data Visualization: Data Visualization: I visualized the analyzed data using the charts and graphs available on Microsoft Power BI. I also created a dashboard using the insights from the analyzed data.
+
 
 # Insights
 

@@ -2,9 +2,18 @@
 
 # Introduction
 
-The Manager of MeriSKill wants to have an idea of the overall performance of the various store locations accross the country in 2019 and Q1 of 2020.
+The world of business thrives on data-driven decisions, and the ability to harness the power of data is essential. In this project, we embark on an exciting journey to analyze sales data, uncover trends, and reveal valuable insights that will drive strategic decision-making. 
 
-He has asked some questions to gain these insights and has also provided sales report for the different months.
+Our primary goal is to extract actionable information from a substantial sales dataset, providing a roadmap for optimizing sales strategies and achieving sustainable growth
+
+# Description
+
+Within the realm of this project, we will delve deep into a vast repository of sales data, armed with analytical tools and techniques. Our mission is to unearth the hidden gems that lie within these numbers. We will scrutinize sales trends, identify star-performing products, and meticulously calculate essential revenue metrics, including total sales and Average revenue per Order. 
+
+But we won't stop at just numbers; we will bring these insights to life through compelling visualizations that resonate with stakeholders
+
+
+
 
 # About the Dataset
 
@@ -28,7 +37,7 @@ Q1. What is the overall sales trend?
 
 Q2. What is the product performance by revenue? 
 
-Q3. What are the Most Selling Products(Quantity)? 
+Q3. What are the Products performance by Quantity? 
 
 Q4. What is the Order performance per City?
 
@@ -70,7 +79,7 @@ Average revenue/order - $185.5
 
 ![image](https://github.com/Ernest-30/D-and-D-Electronics-Store-Sales-Analysis/assets/123366282/c414f199-fa8f-4e6b-82af-42b2790b9525)
 
-Q3 recorded the highest revenue with a total of $11.5M while Q1 with a total of $6.8M
+Q4 recorded the highest revenue with a total of $11.5M while Q1 with a total of $6.8M
 
 ### Sales per Month
 

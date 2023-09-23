@@ -80,7 +80,7 @@ Average revenue/order - $185.5
 
 ![image](https://github.com/Ernest-30/D-and-D-Electronics-Store-Sales-Analysis/assets/123366282/c414f199-fa8f-4e6b-82af-42b2790b9525)
 
-Q4 recorded the highest revenue with a total of $11.5M while Q1 with a total of $6.8M
+Qtr 4 recorded the highest revenue with a total of $11.5M which is 33.49% of the total revenue, while Q1 with a total of $6.8M which is 19.81% of the total revenue recorded the lowest revenue generated.
 
 ### Sales per Month
 
@@ -101,7 +101,7 @@ Tuesdays accounted for the highest revenue generated with a total of $5M which i
 
 ![image](https://github.com/Ernest-30/D-and-D-Electronics-Store-Sales-Analysis/assets/123366282/a7e0ee91-3767-4cd4-b544-3f90bc3499f8)
 
-The top performing product by revenue is Macbook Pro Laptop, which generated total revenue of $8.0M, while the least performing product is AAA Batteries (4-pack) which generated a total revenue of $900k 
+The top performing product by revenue is Macbook Pro Laptop, which generated total revenue of $8.04M, while the least performing product is AAA Batteries (4-pack) which generated a total revenue of $900k 
 
 
 
@@ -111,13 +111,12 @@ The top performing product by revenue is Macbook Pro Laptop, which generated tot
 
 ![image](https://github.com/Ernest-30/D-and-D-Electronics-Store-Sales-Analysis/assets/123366282/dc86364c-1794-4507-985a-66f881c95e4f)
 
-The most bought product is the AAA Batteries (4-pack) which sold about 31k quantities in 2019, while the item that sold the least number of units is LG Dryer with a total of 646 quantities sold.
-
+The most bought product is the AAA Batteries (4-pack) which sold about 31k quantities, while the product that sold the least number of units is LG Dryer with a total of 646 quantities sold.
 
 
 
 # What is the Order performance per City?
-The top performing State is San Francisco with a total of 45k orders which is 24% of the total orders received, while the least performing State is Austin with a total of 10k orders which is 5.33% of the total orders received. 
+The top performing City is San Francisco with a total of 45k orders which is 24% of the total orders received, while the least performing City is Austin with a total of 10k orders which is 5.33% of the total orders received. 
 
 ![image](https://github.com/Ernest-30/D-and-D-Electronics-Store-Sales-Analysis/assets/123366282/090b21bf-170c-48dd-a9f7-2760aac9d75e)
 
@@ -134,7 +133,7 @@ Revenue peak at 7pm everyday with a total of $2.4M revenue generated and is lowe
 
 # What is the revenue contribution between weekdays and weekends?
 
-Sales over the weekends generated a total of revenue of $9.84M which is 28.52% of the total revenue, while sales over the weekdays generated a total revenue of 24.6M which is 71.48% of the total revenue generated.
+Sales over the weekend generated a total of revenue of $9.84M which is 28.52% of the total revenue, while sales during weekdays generated a total revenue of 24.6M which is 71.48% of the total revenue generated.
 
 ![image](https://github.com/Ernest-30/D-and-D-Electronics-Store-Sales-Analysis/assets/123366282/e1939c59-da23-454d-ab1b-dd6f6139ffa7)
 

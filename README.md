@@ -145,6 +145,14 @@ Revenue peak at 7pm everyday with a total of $2.4M revenue generated and is lowe
 
 Sales over the weekend generated a total of revenue of $9.84M which is 28.52% of the total revenue, while sales during weekdays generated a total revenue of 24.6M which is 71.48% of the total revenue generated.
 
+
+# Visualization
+
+Click [HERE](https://github.com/Ernest-30/MeriSkill-Sales-Analysis/blob/main/MeriSkill%20Sales%20Analysis.pdf) to view and download the full project PDF
+
+![image](https://github.com/Ernest-30/MeriSkill-Sales-Analysis/assets/123366282/04247bf0-d340-4a9c-93bb-7bb9a674edb2)
+
+
 # Conclusion
 
 ### Overall Sales Trend: 
@@ -207,7 +215,5 @@ Continue to focus on weekend sales, potentially with weekend-specific promotions
 
 
 
-# Visualization
 
-![image](https://github.com/Ernest-30/MeriSkill-Sales-Analysis/assets/123366282/04247bf0-d340-4a9c-93bb-7bb9a674edb2)
 
